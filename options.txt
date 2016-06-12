@@ -4,7 +4,7 @@ fov:0.0
 gamma:0.30985916
 saturation:0.0
 renderDistance:12
-guiScale:2
+guiScale:3
 particles:0
 bobView:true
 anaglyph3d:false
@@ -12,7 +12,7 @@ advancedOpengl:false
 maxFps:120
 fboEnable:true
 difficulty:2
-fancyGraphics:true
+fancyGraphics:false
 ao:2
 clouds:true
 resourcePacks:[]
@@ -94,7 +94,7 @@ key_key.next:45
 key_key.prev:46
 key_OreSpawn UP/FAST:56
 key_key.cameraNext:26
-key_key.cameraZoomOut:27
+key_key.cameraZoomOut:12
 key_key.cameraZoomIn:13
 key_key.cameraZoomOut:12
 key_key.cameraEmitRedstone:19
@@ -145,7 +145,7 @@ key_key.control:29
 key_key.journeymap.map_toggle:36
 key_key.journeymap.zoom_in:13
 key_key.journeymap.zoom_out:12
-key_key.journeymap.minimap_type:26
+key_key.journeymap.minimap_type:27
 key_key.journeymap.minimap_type:27
 key_key.journeymap.minimap_preset:43
 key_key.journeymap.create_waypoint:48
