@@ -111,7 +111,7 @@ key_key.tgoggles:34
 key_key.tbelt:48
 key_key.tzoom:44
 key_key.categories.naming:49
-key_invtweaks.key.sort:19
+key_invtweaks.key.sort:0
 key_key.legends.keyr.desc:19
 key_key.legends.keyf.desc:33
 key_key.legends.keyc.desc:46
