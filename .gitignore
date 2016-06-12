@@ -1,0 +1,30 @@
+# Vanilla directories
+/assets
+/libraries
+/versions
+/logs
+/resourcepacks
+/saves
+/server-resource-packs
+
+# Vanilla files
+/launcher.jar
+/launcher.pack.lzma
+/launcher_profiles.json
+/options.txt
+/servers.dat
+/usernamecache.json
+
+# Forge directories
+#/config
+/mods
+/asm
+
+# Mod directories
+/compendiumunlocks
+/compendiumUpdates
+#/data
+/journeymap
+
+# Mod files
+/BotaniaVars.dat
