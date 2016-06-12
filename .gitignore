@@ -11,7 +11,7 @@
 /launcher.jar
 /launcher.pack.lzma
 /launcher_profiles.json
-/options.txt
+#/options.txt
 /servers.dat
 /usernamecache.json
 
