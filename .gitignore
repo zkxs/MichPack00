@@ -1,5 +1,6 @@
 # Vanilla directories
 /assets
+/crash-reports
 /libraries
 /versions
 /logs

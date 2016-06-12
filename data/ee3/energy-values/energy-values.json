@@ -17974,6 +17974,708 @@
   },
   {
     "itemstack": {
+      "name": "mcheli:rangefinder"
+    },
+    "energyValue": 1601.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:wrench"
+    },
+    "energyValue": 1024.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:fuel"
+    },
+    "energyValue": 1312.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:gltd"
+    },
+    "energyValue": 11552.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:chain"
+    },
+    "energyValue": 1792.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:parachute"
+    },
+    "energyValue": 216.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:container"
+    },
+    "energyValue": 383.998
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:uav_station"
+    },
+    "energyValue": 10272.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:uav_station2"
+    },
+    "energyValue": 9248.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:m18_green"
+    },
+    "energyValue": 272.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:m18_red"
+    },
+    "energyValue": 260.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:m18_violet"
+    },
+    "energyValue": 272.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:m18_yellow"
+    },
+    "energyValue": 260.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:fim92_bullet"
+    },
+    "energyValue": 240.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:fgm148_bullet"
+    },
+    "energyValue": 240.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:fim92"
+    },
+    "energyValue": 1057.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:fgm148"
+    },
+    "energyValue": 801.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:ah-1z"
+    },
+    "energyValue": 10240.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:ah-6"
+    },
+    "energyValue": 3328.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:ah-64"
+    },
+    "energyValue": 11520.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:ah-6x"
+    },
+    "energyValue": 3392.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:bell206l"
+    },
+    "energyValue": 9504.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:bell207"
+    },
+    "energyValue": 3521.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:bell47g"
+    },
+    "energyValue": 3073.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:bell47gf"
+    },
+    "energyValue": 3377.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:ch47"
+    },
+    "energyValue": 11583.999
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:ec665"
+    },
+    "energyValue": 9216.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:fl282"
+    },
+    "energyValue": 3872.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:ka-27"
+    },
+    "energyValue": 11520.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:ka-29"
+    },
+    "energyValue": 11904.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:ka50n"
+    },
+    "energyValue": 9591.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:ka52"
+    },
+    "energyValue": 10103.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:mh-53e"
+    },
+    "energyValue": 11776.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:mh-6"
+    },
+    "energyValue": 3328.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:mh-60g"
+    },
+    "energyValue": 12484.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:mh-60l_dap"
+    },
+    "energyValue": 11712.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:mi-24"
+    },
+    "energyValue": 9695.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:mi-24ps"
+    },
+    "energyValue": 11185.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:mi28"
+    },
+    "energyValue": 9472.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:mq-8b"
+    },
+    "energyValue": 3104.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:nh90"
+    },
+    "energyValue": 8256.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:oh-1"
+    },
+    "energyValue": 7680.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:penetrator"
+    },
+    "energyValue": 8192.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:robinson_r44"
+    },
+    "energyValue": 3329.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:robinson_r44f"
+    },
+    "energyValue": 2993.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:sh-3"
+    },
+    "energyValue": 9220.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:sh-60"
+    },
+    "energyValue": 9240.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:uh-1c"
+    },
+    "energyValue": 7616.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:a-10"
+    },
+    "energyValue": 81153.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:a6m2"
+    },
+    "energyValue": 6980.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:ac-130"
+    },
+    "energyValue": 83202.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:an2"
+    },
+    "energyValue": 3337.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:b-2a"
+    },
+    "energyValue": 280712.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:b29"
+    },
+    "energyValue": 12108.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:bqm_74e"
+    },
+    "energyValue": 296.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:c5"
+    },
+    "energyValue": 12863.999
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:cb90"
+    },
+    "energyValue": 4608.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:cessna172"
+    },
+    "energyValue": 3432.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:e767"
+    },
+    "energyValue": 33856.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:emb314"
+    },
+    "energyValue": 3247.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:f-15e"
+    },
+    "energyValue": 22665.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:f-15s_mtd"
+    },
+    "energyValue": 19713.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:f-35a"
+    },
+    "energyValue": 85249.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:f-35b"
+    },
+    "energyValue": 85633.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:f-35c"
+    },
+    "energyValue": 83909.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:f14d"
+    },
+    "energyValue": 17920.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:f1m"
+    },
+    "energyValue": 7040.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:f22a"
+    },
+    "energyValue": 156673.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:f4a"
+    },
+    "energyValue": 7688.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:fa18f"
+    },
+    "energyValue": 9520.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:fi167"
+    },
+    "energyValue": 9240.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:h8k"
+    },
+    "energyValue": 11568.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:harrier"
+    },
+    "energyValue": 9729.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:harrier_en"
+    },
+    "energyValue": 12032.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:mark5"
+    },
+    "energyValue": 1776.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:md90"
+    },
+    "energyValue": 11528.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:mig29"
+    },
+    "energyValue": 7784.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:mq-9"
+    },
+    "energyValue": 3872.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:mqm170"
+    },
+    "energyValue": 288.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:mv-22"
+    },
+    "energyValue": 11521.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:n1k1"
+    },
+    "energyValue": 4768.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:p-51d"
+    },
+    "energyValue": 17409.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:p180"
+    },
+    "energyValue": 7855.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:project1204"
+    },
+    "energyValue": 24716.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:pzl-m18"
+    },
+    "energyValue": 2858.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:skylark"
+    },
+    "energyValue": 520.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:su-33"
+    },
+    "energyValue": 5692.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:su-47"
+    },
+    "energyValue": 79617.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:su37"
+    },
+    "energyValue": 5700.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:t-4"
+    },
+    "energyValue": 6625.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:tornado-gr4"
+    },
+    "energyValue": 13448.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:tornado-ids"
+    },
+    "energyValue": 11694.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:us-2"
+    },
+    "energyValue": 14617.148
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:x-47b"
+    },
+    "energyValue": 9504.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:zodiac"
+    },
+    "energyValue": 400.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:bnr32"
+    },
+    "energyValue": 833.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:centauro"
+    },
+    "energyValue": 5888.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:kv-2"
+    },
+    "energyValue": 11520.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:m1a2"
+    },
+    "energyValue": 9984.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:merkava_mk4"
+    },
+    "energyValue": 7936.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:t-90"
+    },
+    "energyValue": 5888.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:t84"
+    },
+    "energyValue": 12288.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:12.7"
+    },
+    "energyValue": 7598.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:12.7s"
+    },
+    "energyValue": 9902.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:15.5"
+    },
+    "energyValue": 14085.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:25mmaamg"
+    },
+    "energyValue": 7941.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:46"
+    },
+    "energyValue": 62469.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:bofors40mml60"
+    },
+    "energyValue": 7456.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:mim-23"
+    },
+    "energyValue": 5728.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:mk15"
+    },
+    "energyValue": 7169.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:mk32"
+    },
+    "energyValue": 7272.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:oto76mm"
+    },
+    "energyValue": 8343.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:s-75"
+    },
+    "energyValue": 15812.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:searam"
+    },
+    "energyValue": 7201.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:sea_sparrow"
+    },
+    "energyValue": 9096.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:type93_launcher"
+    },
+    "energyValue": 9720.0
+  },
+  {
+    "itemstack": {
+      "name": "mcheli:vads"
+    },
+    "energyValue": 7681.0
+  },
+  {
+    "itemstack": {
       "name": "Mekanism:Ingot",
       "metaValue": 4
     },

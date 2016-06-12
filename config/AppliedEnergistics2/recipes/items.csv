@@ -3858,7 +3858,7 @@ ThermalFoundation:FluidCoal, Liquifacted Coal
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quantum Energy Device)
+ExtraUtilities:endConstructor:0, QED (Quantum Entanglement Diviner)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -4735,6 +4735,8 @@ MagicBees:hive:2, Resonating Hive
 MagicBees:effectJar, Bee Collector's Jar
 MagicBees:magicApiary, Magic Apiary
 MagicBees:manaAuraProvider, Mana Apiary Booster
+mcheli:drafting_table, Drafting Table
+mcheli:lit_drafting_table, tile.lit_drafting_table.name
 Mekanism:BasicBlock:0, Osmium Block
 Mekanism:BasicBlock:1, Bronze Block
 Mekanism:BasicBlock:2, Refined Obsidian
@@ -11971,6 +11973,131 @@ MagicBees:frameTemporal, Temporal Frame
 MagicBees:frameOblivion, Oblivion Frame
 MagicBees:item.manasteelScoop, Manasteel Scoop
 MagicBees:item.manasteelGrafter, Manasteel Grafter
+mcheli:rangefinder, Laser Rangefinder
+mcheli:wrench, Wrench
+mcheli:fuel, Fuel
+mcheli:gltd, GLTD:Target Designator
+mcheli:chain, Chain
+mcheli:parachute, Parachute
+mcheli:container, Container
+mcheli:uav_station, UAV Station
+mcheli:uav_station2, Portable UAV Controller
+mcheli:internal, item.mcheli:internal.name
+mcheli:m18_green, M18 smoke (Green)
+mcheli:m18_red, M18 smoke (Red)
+mcheli:m18_violet, M18 smoke (Violet)
+mcheli:m18_yellow, M18 smoke (Yellow)
+mcheli:fim92_bullet, FIM-92 Stinger missile
+mcheli:fgm148_bullet, FGM-148 Javelin missile
+mcheli:fim92, FIM-92 Stinger
+mcheli:fgm148, FGM-148 Javelin
+mcheli:ah-1z, AH-1Z Viper
+mcheli:ah-6, AH-6 Killer Egg
+mcheli:ah-64, AH-64D Apache Longbow
+mcheli:ah-6x, Boeing AH-6
+mcheli:bell206l, Bell 206L LongRanger
+mcheli:bell207, Bell207 Sioux Scout
+mcheli:bell47g, Bell47G
+mcheli:bell47gf, Bell47G float
+mcheli:ch47, CH47 chnuke
+mcheli:ec665, EC665 Tiger UHT
+mcheli:fl282, Flettner Fl 282
+mcheli:ka-27, Ka-27 Helix
+mcheli:ka-29, Ka-29 Helix B
+mcheli:ka50n, Ka-50N Hokum A
+mcheli:ka52, Ka-52 Hokum B
+mcheli:mh-53e, MH-53E Sea Dragon
+mcheli:mh-6, MH-6 Little Bird
+mcheli:mh-60g, MH60G PaveHawk
+mcheli:mh-60l_dap, MH-60L DAP
+mcheli:mi-24, Mi-24VP Hind
+mcheli:mi-24ps, Mi-24PS Hind
+mcheli:mi28, Mi-28N Havoc
+mcheli:mq-8b, MQ-8B Fire Scout
+mcheli:nh90, NHIndustries NH90-TTH
+mcheli:oh-1, Kawasaki OH-1
+mcheli:penetrator, Bell Penetrator
+mcheli:rc-goblin-bomb, RC Goblin with Bomb
+mcheli:rc-goblin, RC Goblin
+mcheli:robinson_r44, Robinson R44
+mcheli:robinson_r44f, Robinson R44 Float
+mcheli:sh-3, SH-3 Sea King
+mcheli:sh-60, SH-60 Seahawk
+mcheli:uh-1c, UH-1C Iroquois
+mcheli:a-10, A-10 Thunderbolt II
+mcheli:a6m2, ZERO type21
+mcheli:ac-130, AC-130H Spectre
+mcheli:an2, An-2S
+mcheli:b-2a, B-2A Spirit
+mcheli:b29, B-29 Superfortress
+mcheli:bqm_74e, BQM-74E CHUKAR III(Target drone)
+mcheli:c5, C5A galaxy
+mcheli:cb90, CB90 Combat Boat
+mcheli:cessna172, Cessna 172
+mcheli:e767, E767
+mcheli:emb314, EMB 314 Super Tucano
+mcheli:f-15e, F-15E Strike Eagle
+mcheli:f-15s_mtd, F-15 S/MTD
+mcheli:f-35a, F-35A Lightning II
+mcheli:f-35b, F-35B Lightning II
+mcheli:f-35c, F-35C Lightning II
+mcheli:f14d, F-14D Super Tomcat
+mcheli:f1m, F1M Pate
+mcheli:f22a, F-22A Raptor
+mcheli:f4a, F-4A PhantomII
+mcheli:fa18f, F/A-18F
+mcheli:fi167, Fieseler Fi167
+mcheli:fuel_truck, Fuel truck
+mcheli:h8k, Kawanishi H8K
+mcheli:harrier, AV-8B Harrier II
+mcheli:harrier_en, BAe Harrier II
+mcheli:macchi_m33, Macchi M33
+mcheli:macchi_mc72, macchi_M.C.72
+mcheli:mark5, Mk.5 Special Operations Craft
+mcheli:md90, MD-90-30
+mcheli:mig29, MiG-29 Fulcrum
+mcheli:mq-9, MQ-9 Reaper
+mcheli:mqm170, MQM-170 Outlaw(Target drone)
+mcheli:mv-22, MV-22 Osprey
+mcheli:n1k1, Rex N1K1
+mcheli:p-51d, P-51D Mustang
+mcheli:p180, Piaggio P.180 Avanti II
+mcheli:project1204, Project1204 Shmel Partol-Boat
+mcheli:pzl-m18, PZL M-18 Dromader
+mcheli:skylark, Elbit Skylark
+mcheli:stinger_390x, Chris Craft Stinger 390x
+mcheli:su-33, Su-33 Flanker-D
+mcheli:su-47, Su-47 Berkut
+mcheli:su37, Su-37 Terminator
+mcheli:t-4, T-4(Trainer)
+mcheli:tornado-gr4, Panavia Tornado GR.4
+mcheli:tornado-ids, Panavia Tornado IDS
+mcheli:us-2, US-2
+mcheli:x-47b, X-47B Pegasus
+mcheli:zodiac, Zodiac Boat
+mcheli:bnr32, bnr32
+mcheli:centauro, B1 centauro
+mcheli:kv-2, KV-2 Gigant
+mcheli:m1a2, M1A2 Abrams
+mcheli:merkava_mk4, MerkavaMk4
+mcheli:t-90, T-90 MBT
+mcheli:t84, T-84 OplotM
+mcheli:12.7, 12.7cmAACanon
+mcheli:12.7s, 12.7cmAACanon shield
+mcheli:15.5, 15.5cmCanon
+mcheli:25mmaamg, 25mmMachineGun
+mcheli:46, 46cmCanon
+mcheli:ammo_box, AmmoBox
+mcheli:bofors40mml60, bofors 40 mm/l60
+mcheli:mim-23, MIM-23 HAWK
+mcheli:mk15, Mk.15 Phalanx
+mcheli:mk32, Mk.32 Torpedo tube
+mcheli:oto76mm, Oto Melara 76 mm gun
+mcheli:s-75, S-75 SAM
+mcheli:searam, Mk.15 mod.31 SeaRAM
+mcheli:sea_sparrow, Mk29 Missile Launcher
+mcheli:type93_launcher, Type 93 torpedo
+mcheli:vads, VADS
 Mekanism:PartTransmitter:0, Basic Universal Cable
 Mekanism:PartTransmitter:1, Advanced Universal Cable
 Mekanism:PartTransmitter:2, Elite Universal Cable
