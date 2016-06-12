@@ -1979,10 +1979,6 @@ Railcraft:machine.alpha:8, Rolling Machine
 Railcraft:machine.alpha:15, Rock Crusher
 Railcraft:machine.alpha:11, Feed Station
 Railcraft:machine.alpha:6, Trade Station
-Railcraft:machine.alpha:0, World Anchor
-Railcraft:machine.alpha:2, Personal Anchor
-Railcraft:machine.alpha:13, Passive Anchor
-Railcraft:machine.alpha:4, Admin Anchor
 Railcraft:machine.alpha:1, Steam Turbine Housing
 Railcraft:machine.alpha:5, Smoker
 Railcraft:machine.alpha:9, Manual Steam Trap
@@ -2000,7 +1996,6 @@ Railcraft:machine.beta:4, High Pressure Boiler Tank
 Railcraft:machine.beta:7, Hobbyist's Steam Engine
 Railcraft:machine.beta:8, Commercial Steam Engine
 Railcraft:machine.beta:9, Industrial Steam Engine
-Railcraft:machine.beta:10, Anchor Sentinel
 Railcraft:machine.beta:11, Void Chest
 Railcraft:machine.beta:12, Metals Chest
 Railcraft:track:4767, Switch Track
@@ -3825,6 +3820,13 @@ chocolateQuest:exporterChest:2, tile.ExporterChest.name
 chocolateQuest:exporterChest:3, tile.ExporterChest.name
 chocolateQuest:exporterChest:4, tile.ExporterChest.name
 chocolateQuest:none, tile.none.name
+extracells:certustank, extracells.block.certustank.name
+extracells:walrus, Walrus
+extracells:fluidcrafter, ME Fluid Assembler
+extracells:ecbaseblock:0, ME Fluid Interface
+extracells:ecbaseblock:1, ME Fluid Auto Filler
+extracells:hardmedrive, Blast resistant ME Drive [WIP]
+extracells:vibrantchamberfluid, Fluid Vibration Chamber
 ThermalFoundation:Ore:0, Copper Ore
 ThermalFoundation:Ore:1, Tin Ore
 ThermalFoundation:Ore:2, Silver Ore
@@ -3858,7 +3860,7 @@ ThermalFoundation:FluidCoal, Liquifacted Coal
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quantum Entanglement Diviner)
+ExtraUtilities:endConstructor:0, QED (Quantum Entanglement Device)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -8121,100 +8123,6 @@ Forestry:stamps:5, Stamp (50n)
 Forestry:stamps:6, Stamp (100n)
 Forestry:letters, Letter
 Forestry:catalogue, Catalogue
-Forestry:crate, Crate
-Forestry:apiaristBag, Apiarist's Backpack
-Forestry:lepidopteristBag, Lepidopterist's Backpack
-Forestry:minerBag, Miner's Backpack
-Forestry:minerBagT2, Miner's Woven Backpack
-Forestry:diggerBag, Digger's Backpack
-Forestry:diggerBagT2, Digger's Woven Backpack
-Forestry:foresterBag, Forester's Backpack
-Forestry:foresterBagT2, Forester's Woven Backpack
-Forestry:hunterBag, Hunter's Backpack
-Forestry:hunterBagT2, Hunter's Woven Backpack
-Forestry:adventurerBag, Adventurer's Backpack
-Forestry:adventurerBagT2, Adventurer's Woven Backpack
-Forestry:builderBag, Builder's Backpack
-Forestry:builderBagT2, Builder's WovenBackpack
-Forestry:cratedPeat, item.cratedPeat.name
-Forestry:cratedApatite, item.cratedApatite.name
-Forestry:cratedFertilizer, item.cratedFertilizer.name
-Forestry:cratedMulch, item.cratedMulch.name
-Forestry:cratedPhosphor, item.cratedPhosphor.name
-Forestry:cratedAsh, item.cratedAsh.name
-Forestry:cratedTin, item.cratedTin.name
-Forestry:cratedCopper, item.cratedCopper.name
-Forestry:cratedBronze, item.cratedBronze.name
-Forestry:cratedHumus, item.cratedHumus.name
-Forestry:cratedBogearth, item.cratedBogearth.name
-Forestry:cratedWheat, item.cratedWheat.name
-Forestry:cratedCookies, item.cratedCookies.name
-Forestry:cratedRedstone, item.cratedRedstone.name
-Forestry:cratedLapis, item.cratedLapis.name
-Forestry:cratedReeds, item.cratedReeds.name
-Forestry:cratedClay, item.cratedClay.name
-Forestry:cratedGlowstone, item.cratedGlowstone.name
-Forestry:cratedApples, item.cratedApples.name
-Forestry:cratedNetherwart, item.cratedNetherwart.name
-Forestry:cratedCharcoal, item.cratedCharcoal.name
-Forestry:cratedCoal, item.cratedCoal.name
-Forestry:cratedSeeds, item.cratedSeeds.name
-Forestry:cratedPotatoes, item.cratedPotatoes.name
-Forestry:cratedCarrots, item.cratedCarrots.name
-Forestry:cratedWood, item.cratedWood.name
-Forestry:cratedSpruceWood, item.cratedSpruceWood.name
-Forestry:cratedBirchWood, item.cratedBirchWood.name
-Forestry:cratedJungleWood, item.cratedJungleWood.name
-Forestry:cratedAcaciaWood, item.cratedAcaciaWood.name
-Forestry:cratedDarkOakWood, item.cratedDarkOakWood.name
-Forestry:cratedCobblestone, item.cratedCobblestone.name
-Forestry:cratedDirt, item.cratedDirt.name
-Forestry:cratedPodzol, item.cratedPodzol.name
-Forestry:cratedStone, item.cratedStone.name
-Forestry:cratedBrick, item.cratedBrick.name
-Forestry:cratedCacti, item.cratedCacti.name
-Forestry:cratedSand, item.cratedSand.name
-Forestry:cratedRedSand, item.cratedRedSand.name
-Forestry:cratedObsidian, item.cratedObsidian.name
-Forestry:cratedNetherrack, item.cratedNetherrack.name
-Forestry:cratedSoulsand, item.cratedSoulsand.name
-Forestry:cratedSandstone, item.cratedSandstone.name
-Forestry:cratedNetherbrick, item.cratedNetherbrick.name
-Forestry:cratedMycelium, item.cratedMycelium.name
-Forestry:cratedGravel, item.cratedGravel.name
-Forestry:cratedSaplings, item.cratedSaplings.name
-Forestry:cratedSpruceSapling, item.cratedSpruceSapling.name
-Forestry:cratedBirchSapling, item.cratedBirchSapling.name
-Forestry:cratedJungleSapling, item.cratedJungleSapling.name
-Forestry:cratedAcaciaSapling, item.cratedAcaciaSapling.name
-Forestry:cratedDarkOakSapling, item.cratedDarkOakSapling.name
-Forestry:cratedBeeswax, item.cratedBeeswax.name
-Forestry:cratedPollen, item.cratedPollen.name
-Forestry:cratedCrystallinePollen, item.cratedCrystallinePollen.name
-Forestry:cratedPropolis, item.cratedPropolis.name
-Forestry:cratedHoneydew, item.cratedHoneydew.name
-Forestry:cratedRoyalJelly, item.cratedRoyalJelly.name
-Forestry:cratedHoneycombs, item.cratedHoneycombs.name
-Forestry:cratedCocoaComb, item.cratedCocoaComb.name
-Forestry:cratedSimmeringCombs, item.cratedSimmeringCombs.name
-Forestry:cratedStringyCombs, item.cratedStringyCombs.name
-Forestry:cratedFrozenCombs, item.cratedFrozenCombs.name
-Forestry:cratedDrippingCombs, item.cratedDrippingCombs.name
-Forestry:cratedSilkyCombs, item.cratedSilkyCombs.name
-Forestry:cratedParchedCombs, item.cratedParchedCombs.name
-Forestry:cratedMysteriousCombs, item.cratedMysteriousCombs.name
-Forestry:cratedPowderyCombs, item.cratedPowderyCombs.name
-Forestry:cratedWheatenCombs, item.cratedWheatenCombs.name
-Forestry:cratedMossyCombs, item.cratedMossyCombs.name
-Forestry:cratedMellowCombs, item.cratedMellowCombs.name
-Forestry:cratedRefractoryWax, item.cratedRefractoryWax.name
-Forestry:cratedCherry, item.cratedCherry.name
-Forestry:cratedWalnut, item.cratedWalnut.name
-Forestry:cratedChestnut, item.cratedChestnut.name
-Forestry:cratedLemon, item.cratedLemon.name
-Forestry:cratedPlum, item.cratedPlum.name
-Forestry:cratedPapaya, item.cratedPapaya.name
-Forestry:cratedDates, item.cratedDates.name
 BinnieCore:containerBucket:64, extrabees.acid Bucket
 BinnieCore:containerBucket:65, extrabees.poison Bucket
 BinnieCore:containerBucket:66, extrabees.glacial Bucket
@@ -9369,9 +9277,6 @@ Railcraft:cart.track.layer:0, Track Layer Cart
 Railcraft:cart.track.remover:0, Track Remover Cart
 Railcraft:cart.tank:0, Tank Cart
 Railcraft:cart.cargo:0, Cargo Cart
-Railcraft:cart.anchor:0, Anchor Cart
-Railcraft:cart.anchor.personal:0, Personal Anchor Cart
-Railcraft:cart.anchor.admin:0, Admin Anchor Cart
 Railcraft:cart.pumpkin:0, Pumpkin Cart
 Railcraft:cart.gift:0, Gift Cart
 Railcraft:tool.whistle.tuner, Whistle Tuner
@@ -9800,6 +9705,76 @@ chocolateQuest:mageHood,  Mage Hood
 chocolateQuest:mageJacket,  Mage Jacket
 chocolateQuest:mageSkirt,  Mage Skirt
 chocolateQuest:mageBoots,  Mage Boots
+extracells:part.base:0, ME Fluid Export Bus
+extracells:part.base:1, ME Fluid Import Bus
+extracells:part.base:2, ME Fluid Storage Bus
+extracells:part.base:3, ME Fluid Terminal
+extracells:part.base:4, ME Fluid Level Emitter
+extracells:part.base:5, ME Fluid Annihilation Plane
+extracells:part.base:6, ME Fluid Formation Plane
+extracells:part.base:7, ME Drive Fixture
+extracells:part.base:8, ME Energy Cell Fixture
+extracells:part.base:9, ME Fluid Interface
+extracells:part.base:10, ME Fluid Storage Monitor
+extracells:part.base:11, ME Fluid Conversion Monitor
+extracells:part.base:12, ME Ore Dictionary Export Bus
+extracells:part.base:13, ME Gas Import Bus
+extracells:part.base:14, ME Gas Export Bus
+extracells:part.base:15, ME Gas Terminal
+extracells:part.base:16, ME Gas Storage Bus
+extracells:part.base:17, ME Gas Level Emitter
+extracells:part.base:18, ME Gas Storage Monitor
+extracells:part.base:19, ME Gas Conversion Monitor
+extracells:storage.fluid:0, ME 1k Fluid Storage
+extracells:storage.fluid:1, ME 4k Fluid Storage
+extracells:storage.fluid:2, ME 16k Fluid Storage
+extracells:storage.fluid:3, ME 64k Fluid Storage
+extracells:storage.fluid:4, ME 256k Fluid Storage
+extracells:storage.fluid:5, ME 1024k Fluid Storage
+extracells:storage.fluid:6, ME 4096k Fluid Storage
+extracells:storage.physical:0, ME 256k Storage
+extracells:storage.physical:1, ME 1024k Storage
+extracells:storage.physical:2, ME 4096k Storage
+extracells:storage.physical:3, ME 16384k Storage
+extracells:storage.physical:4, ME Block Container - Empty
+extracells:storage.physical:4, ME Block Container - Empty
+extracells:storage.gas:0, ME 1k Gas Storage
+extracells:storage.gas:1, ME 4k Gas Storage
+extracells:storage.gas:2, ME 16k Gas Storage
+extracells:storage.gas:3, ME 64k Gas Storage
+extracells:storage.gas:4, ME 256k Gas Storage
+extracells:storage.gas:5, ME 1024k Gas Storage
+extracells:storage.gas:6, ME 4096k Gas Storage
+extracells:pattern.fluid, item.extracells.pattern.fluid.name
+extracells:terminal.fluid.wireless, item.extracells.terminal.fluid.wireless.name
+extracells:storage.component:0, 256k ME Storage Component
+extracells:storage.component:1, 1024k ME Storage Component
+extracells:storage.component:2, 4096k ME Storage Component
+extracells:storage.component:3, 16384k ME Storage Component
+extracells:storage.component:4, 1k ME Fluid Storage Component
+extracells:storage.component:5, 4k ME Fluid Storage Component
+extracells:storage.component:6, 16k ME Fluid Storage Component
+extracells:storage.component:7, 64k ME Fluid Storage Component
+extracells:storage.component:8, 256k ME Fluid Storage Component
+extracells:storage.component:9, 1024k ME Fluid Storage Component
+extracells:storage.component:10, 4096k ME Fluid Storage Component
+extracells:storage.component:11, 1k ME Gas Storage Component
+extracells:storage.component:12, 4k ME Gas Storage Component
+extracells:storage.component:13, 16k ME Gas Storage Component
+extracells:storage.component:14, 64k ME Gas Storage Component
+extracells:storage.component:15, 256k ME Gas Storage Component
+extracells:storage.component:16, 1024k ME Gas Storage Component
+extracells:storage.component:17, 4096k ME Gas Storage Component
+extracells:storage.casing:0, Advanced Storage Housing
+extracells:storage.casing:1, Fluid Storage Housing
+extracells:storage.casing:2, Gas Storage Housing
+extracells:fluid.item, item.extracells.fluid.item.name
+extracells:storage.fluid.portable, item.extracells.storage.fluid.portable.name
+extracells:storage.gas.portable, item.extracells.storage.gas.portable.name
+extracells:pattern.crafting, item.extracells.pattern.crafting.name
+extracells:terminal.universal.wireless, item.extracells.terminal.universal.wireless.name
+extracells:terminal.gas.wireless, item.extracells.terminal.gas.wireless.name
+extracells:oc.upgrade, ME Upgrade
 ThermalFoundation:lexicon, item.thermalfoundation.tome.name
 ThermalFoundation:bucket:0, Destabilized Redstone Bucket
 ThermalFoundation:bucket:1, Energized Glowstone Bucket
@@ -10189,7 +10164,6 @@ ThermalExpansion:capacitor:4, Redstone Flux Capacitor
 ThermalExpansion:capacitor:4, Redstone Flux Capacitor
 ThermalExpansion:capacitor:5, Resonant Flux Capacitor
 ThermalExpansion:capacitor:5, Resonant Flux Capacitor
-ThermalExpansion:satchel:0, Creative Satchel
 ThermalExpansion:satchel:1, Satchel
 ThermalExpansion:satchel:2, Hardened Satchel
 ThermalExpansion:satchel:3, Reinforced Satchel
