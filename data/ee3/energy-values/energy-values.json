@@ -3507,19 +3507,6 @@
   },
   {
     "itemstack": {
-      "name": "Railcraft:machine.alpha"
-    },
-    "energyValue": 25728.0
-  },
-  {
-    "itemstack": {
-      "name": "Railcraft:machine.alpha",
-      "metaValue": 2
-    },
-    "energyValue": 25728.0
-  },
-  {
-    "itemstack": {
       "name": "Railcraft:machine.alpha",
       "metaValue": 5
     },
@@ -3542,13 +3529,6 @@
   {
     "itemstack": {
       "name": "Railcraft:machine.alpha",
-      "metaValue": 13
-    },
-    "energyValue": 9376.0
-  },
-  {
-    "itemstack": {
-      "name": "Railcraft:machine.alpha",
       "metaValue": 14
     },
     "energyValue": 97.333
@@ -3559,13 +3539,6 @@
       "metaValue": 5
     },
     "energyValue": 658.667
-  },
-  {
-    "itemstack": {
-      "name": "Railcraft:machine.beta",
-      "metaValue": 10
-    },
-    "energyValue": 3264.0
   },
   {
     "itemstack": {
@@ -14367,7 +14340,7 @@
     "itemstack": {
       "name": "ThermalExpansion:Dynamo",
       "metaValue": 1,
-      "tagCompound": "{RSControl:0b,Facing:1b,Energy:0,Augments:[0:{Slot:0,id:5410s,Count:1b,Damage:32s}]}"
+      "tagCompound": "{RSControl:0b,Facing:1b,Energy:0,Augments:[0:{Slot:0,id:5327s,Count:1b,Damage:32s}]}"
     },
     "energyValue": 2301.576
   },
@@ -14375,7 +14348,7 @@
     "itemstack": {
       "name": "ThermalExpansion:Dynamo",
       "metaValue": 4,
-      "tagCompound": "{RSControl:0b,Facing:1b,Energy:0,Augments:[0:{Slot:0,id:5410s,Count:1b,Damage:32s}]}"
+      "tagCompound": "{RSControl:0b,Facing:1b,Energy:0,Augments:[0:{Slot:0,id:5327s,Count:1b,Damage:32s}]}"
     },
     "energyValue": 4648.25
   },
@@ -15065,42 +15038,6 @@
   },
   {
     "itemstack": {
-      "name": "Forestry:minerBag"
-    },
-    "energyValue": 719.999
-  },
-  {
-    "itemstack": {
-      "name": "Forestry:diggerBag"
-    },
-    "energyValue": 209.999
-  },
-  {
-    "itemstack": {
-      "name": "Forestry:foresterBag"
-    },
-    "energyValue": 271.999
-  },
-  {
-    "itemstack": {
-      "name": "Forestry:hunterBag"
-    },
-    "energyValue": 303.999
-  },
-  {
-    "itemstack": {
-      "name": "Forestry:adventurerBag"
-    },
-    "energyValue": 303.999
-  },
-  {
-    "itemstack": {
-      "name": "Forestry:builderBag"
-    },
-    "energyValue": 335.999
-  },
-  {
-    "itemstack": {
       "name": "BinnieCore:fieldKit",
       "metaValue": 63
     },
@@ -15612,18 +15549,6 @@
       "name": "Railcraft:cart.cargo"
     },
     "energyValue": 1477.999
-  },
-  {
-    "itemstack": {
-      "name": "Railcraft:cart.anchor"
-    },
-    "energyValue": 27008.0
-  },
-  {
-    "itemstack": {
-      "name": "Railcraft:cart.anchor.personal"
-    },
-    "energyValue": 27008.0
   },
   {
     "itemstack": {
@@ -19178,9 +19103,801 @@
   },
   {
     "itemstack": {
+      "name": "sus:clothStar"
+    },
+    "energyValue": 315.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:fan4Logo"
+    },
+    "energyValue": 77824.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:gArrow"
+    },
+    "energyValue": 30.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:webArrow"
+    },
+    "energyValue": 42.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:boxingArrow"
+    },
+    "energyValue": 95.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:exArrow"
+    },
+    "energyValue": 994.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:greekArrow"
+    },
+    "energyValue": 232.667
+  },
+  {
+    "itemstack": {
+      "name": "sus:sArrow"
+    },
+    "energyValue": 18.0
+  },
+  {
+    "itemstack": {
       "name": "sus:grenade"
     },
     "energyValue": 2112.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:jokerGrenade"
+    },
+    "energyValue": 3651.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:bootsMark1"
+    },
+    "energyValue": 39168.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:bootsBatman1960"
+    },
+    "energyValue": 260.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:bootsBatmanBTAS"
+    },
+    "energyValue": 260.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:bootsBatmanBTAS4"
+    },
+    "energyValue": 276.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:bootsBatmanBlue"
+    },
+    "energyValue": 15682.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetGreenArrow"
+    },
+    "energyValue": 308.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:chestGreenArrow"
+    },
+    "energyValue": 517.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:legsGreenArrow"
+    },
+    "energyValue": 1034.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:bootsGreenArrow"
+    },
+    "energyValue": 16514.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetShazam"
+    },
+    "energyValue": 9216.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetDeadman"
+    },
+    "energyValue": 3202.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:bootsDeadman"
+    },
+    "energyValue": 260.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetSpectre"
+    },
+    "energyValue": 2243.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:chestSpectre"
+    },
+    "energyValue": 226304.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:legsSpectre"
+    },
+    "energyValue": 149699.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:bootsSpectre"
+    },
+    "energyValue": 149504.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:legsRobin"
+    },
+    "energyValue": 260.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:bootsRobin"
+    },
+    "energyValue": 260.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:legsRobinTitans"
+    },
+    "energyValue": 6404.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetRobinJason"
+    },
+    "energyValue": 191.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:legsRobinJason"
+    },
+    "energyValue": 6404.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetRedRobin"
+    },
+    "energyValue": 321.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:chestRedRobin"
+    },
+    "energyValue": 18887.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:legsRedRobin"
+    },
+    "energyValue": 6404.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:bootsRedRobin"
+    },
+    "energyValue": 260.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetRobinDamian"
+    },
+    "energyValue": 321.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:bootsRobinDamian"
+    },
+    "energyValue": 260.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetBatgirl"
+    },
+    "energyValue": 321.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:legsBatgirl"
+    },
+    "energyValue": 4583.556
+  },
+  {
+    "itemstack": {
+      "name": "sus:bootsBatgirl"
+    },
+    "energyValue": 260.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetBatgirlBlue"
+    },
+    "energyValue": 451.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:legsBatgirlBlue"
+    },
+    "energyValue": 4583.556
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetNightwing"
+    },
+    "energyValue": 321.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:legsKidFlash"
+    },
+    "energyValue": 455.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetSpeedy"
+    },
+    "energyValue": 369.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:chestSpeedy"
+    },
+    "energyValue": 520.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:legsSpeedy"
+    },
+    "energyValue": 455.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:bootsSpeedy"
+    },
+    "energyValue": 646.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetBlackCanary"
+    },
+    "energyValue": 5195.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:chestBlackCanary"
+    },
+    "energyValue": 713.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:legsBlackCanary"
+    },
+    "energyValue": 8330.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:bootsBlackCanary"
+    },
+    "energyValue": 710.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetSupergirl"
+    },
+    "energyValue": 1357.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:legsSupergirl"
+    },
+    "energyValue": 1227.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetConstantine"
+    },
+    "energyValue": 711.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:chestCapAmerica"
+    },
+    "energyValue": 766.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:bootsCapAmerica"
+    },
+    "energyValue": 260.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetHawkeye"
+    },
+    "energyValue": 455.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetBlackWidow"
+    },
+    "energyValue": 325.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:chestBlackWidow"
+    },
+    "energyValue": 398.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:legsBlackWidow"
+    },
+    "energyValue": 55556.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:bootsBlackWidow"
+    },
+    "energyValue": 646.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetNickFury"
+    },
+    "energyValue": 455.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:chestNickFury"
+    },
+    "energyValue": 520.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:legsNickFury"
+    },
+    "energyValue": 272.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:bootsNickFury"
+    },
+    "energyValue": 260.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:bootsVision"
+    },
+    "energyValue": 147586.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetWinterSoldier"
+    },
+    "energyValue": 778.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetMrFantastic"
+    },
+    "energyValue": 2243.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:chestMrFantastic"
+    },
+    "energyValue": 78279.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:legsMrFantastic"
+    },
+    "energyValue": 455.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:bootsMrFantastic"
+    },
+    "energyValue": 260.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetInvisibleWoman"
+    },
+    "energyValue": 1526.311
+  },
+  {
+    "itemstack": {
+      "name": "sus:chestInvisibleWoman"
+    },
+    "energyValue": 78243.625
+  },
+  {
+    "itemstack": {
+      "name": "sus:legsInvisibleWoman"
+    },
+    "energyValue": 419.622
+  },
+  {
+    "itemstack": {
+      "name": "sus:bootsInvisibleWoman"
+    },
+    "energyValue": 307.311
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetHumanTorch"
+    },
+    "energyValue": 1557.334
+  },
+  {
+    "itemstack": {
+      "name": "sus:chestHumanTorch"
+    },
+    "energyValue": 78917.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:legsHumanTorch"
+    },
+    "energyValue": 730.334
+  },
+  {
+    "itemstack": {
+      "name": "sus:bootsHumanTorch"
+    },
+    "energyValue": 462.667
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetGamora"
+    },
+    "energyValue": 325.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetDrax"
+    },
+    "energyValue": 325.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetRocket"
+    },
+    "energyValue": 322.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:chestRocket"
+    },
+    "energyValue": 520.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:legsRocket"
+    },
+    "energyValue": 455.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:bootsRocket"
+    },
+    "energyValue": 258.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:legsCyclops"
+    },
+    "energyValue": 455.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetStorm"
+    },
+    "energyValue": 7233.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetGambit"
+    },
+    "energyValue": 325.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetNightcrawler"
+    },
+    "energyValue": 325.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:bootsNightcrawler"
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetPsyloke"
+    },
+    "energyValue": 325.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetAngel"
+    },
+    "energyValue": 325.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:legsAngel"
+    },
+    "energyValue": 449.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:bootsAngel"
+    },
+    "energyValue": 17600.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetX23"
+    },
+    "energyValue": 520.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:bootsX23"
+    },
+    "energyValue": 147584.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetProfX"
+    },
+    "energyValue": 25608.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:legsProfX"
+    },
+    "energyValue": 455.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:bootsProfX"
+    },
+    "energyValue": 514.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetDeadpool"
+    },
+    "energyValue": 321.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:legsDeadpool"
+    },
+    "energyValue": 272.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetQuicksilver"
+    },
+    "energyValue": 701.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:bootsQuicksilver"
+    },
+    "energyValue": 2178.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetNemesis"
+    },
+    "energyValue": 386.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:chestNemesis"
+    },
+    "energyValue": 520.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:legsNemesis"
+    },
+    "energyValue": 455.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:bootsNemesis"
+    },
+    "energyValue": 260.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetProwler"
+    },
+    "energyValue": 581.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:chestProwler"
+    },
+    "energyValue": 520.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:legsProwler"
+    },
+    "energyValue": 455.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:bootsProwler"
+    },
+    "energyValue": 260.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetJoker"
+    },
+    "energyValue": 2243.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:chestJoker"
+    },
+    "energyValue": 471.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetHarleyQuinn"
+    },
+    "energyValue": 4421.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:chestHarleyQuinn"
+    },
+    "energyValue": 520.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:bootsHarleyQuinn"
+    },
+    "energyValue": 260.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetTwoFace"
+    },
+    "energyValue": 2702.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:chestTwoFace"
+    },
+    "energyValue": 510.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:bootsTwoFace"
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:chestCatwoman"
+    },
+    "energyValue": 517.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:legsCatwoman"
+    },
+    "energyValue": 6404.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetRiddler"
+    },
+    "energyValue": 191.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:chestRiddler"
+    },
+    "energyValue": 516.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:legsRiddler"
+    },
+    "energyValue": 455.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:bootsRiddler"
+    },
+    "energyValue": 646.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:legsScarecrow"
+    },
+    "energyValue": 466.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:bootsZoom"
+    },
+    "energyValue": 706.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetMrBolt"
+    },
+    "energyValue": 2113.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:legsVampie"
+    },
+    "energyValue": 1028.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:bootsRonic"
+    },
+    "energyValue": 181760.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetInferno"
+    },
+    "energyValue": 134.0
+  },
+  {
+    "itemstack": {
+      "name": "sus:helmetZorro"
+    },
+    "energyValue": 386.0
   },
   {
     "itemstack": {
@@ -19205,20 +19922,6 @@
       "name": "ForgeMicroblock:stoneRod"
     },
     "energyValue": 0.5
-  },
-  {
-    "itemstack": {
-      "name": "Railcraft:backpack.iceman.t1",
-      "tagCompound": "{display:{Lore:[0:\"§7§oDesigned by Railcraft, Inc.\"]}}"
-    },
-    "energyValue": 209.999
-  },
-  {
-    "itemstack": {
-      "name": "Railcraft:backpack.apothecary.t1",
-      "tagCompound": "{display:{Lore:[0:\"§7§oDesigned by Railcraft, Inc.\"]}}"
-    },
-    "energyValue": 341.701
   },
   {
     "itemstack": {
