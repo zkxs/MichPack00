@@ -1,0 +1,60 @@
+1.7.10/CodeChickenLib-1.7.10-1.1.3.140-universal.jar
+1.7.10/ForgeMultipart-1.7.10-1.2.0.347-universal.jar
+1.7.10_AM2-1.4.0.009.jar
+AnimationAPI-1.7.10-1.2.4.jar
+AOBD-2.9.2.jar
+appliedenergistics2-rv3-beta-6.jar
+Baubles-1.7.10-1.0.1.10.jar
+Binnie Patcher 1.8.jar
+binnie-mods-2.0-pre14.jar
+BloodMagic-1.7.10-1.3.3-17.jar
+Botania r1.8-249.jar
+Carpenter's Blocks v3.3.8 - MC 1.7.10.jar
+cfm-3.4.8-mc1.7.10.jar
+ChickenChunks-1.7.10-1.3.4.19-universal.jar
+Chisel-2.9.5.11.jar
+chocolateQuest-1.7.10-1.1d.jar
+CodeChickenCore-1.7.10-1.0.7.47-universal.jar
+CoFHCore-[1.7.10]3.1.2-325.jar
+denseores-1.6.2.jar
+EnderStorage-1.7.10-1.4.7.38-universal.jar
+EquivalentExchange3-1.7.10-0.3.0.547.jar
+ExtraCells-1.7.10-2.3.10b190.jar
+ExtraTiC-1.7.10-1.4.6.jar
+extrautilities-1.2.12.jar
+fastcraft-1.23.jar
+FastLeafDecay-1.7.10-1.4.jar
+forestry_1.7.10-4.2.13.61.jar
+HelpFixer-1.0.7.jar
+inventorypets-1.7.10-1.4.3-universal.jar
+InventoryTweaks-1.59-dev-152.jar
+ironchest-1.7.10-6.0.60.741-universal.jar
+Jabba-1.2.2_1.7.10.jar
+journeymap-1.7.10-5.1.4p1-unlimited.jar
+Legends Core-1.6.jar
+lookingglass-1.7.10-0.2.0.00.jar
+magicbees-1.7.10-2.4.3.jar
+Mantle-1.7.10-0.3.2b.jar
+mcheli/
+Mekanism-1.7.10-9.0.2.271.jar
+MineFactoryReloaded-[1.7.10]2.8.1-174.jar
+mystcraft-1.7.10-0.12.3.02.jar
+NEIIntegration-MC1.7.10-1.1.2.jar
+NotEnoughItems-1.7.10-1.0.5.120-universal.jar
+OpenBlocks-1.7.10-1.5.1.jar
+OpenModsLib-1.7.10-0.9.1.jar
+orespawn-1.7.10-20.3.zip
+Railcraft_1.7.10-9.12.2.0.jar
+RenderPlayerAPI-1.7.10-1.0.jar
+Superheroes Unlimited Mod-1.7.10-4.3.12.jar
+TConstruct-1.7.10-1.8.8.jar
+ThermalDynamics-[1.7.10]1.2.0-171.jar
+ThermalExpansion-[1.7.10]4.1.2-240.jar
+ThermalFoundation-[1.7.10]1.2.4-114.jar
+TiCTooltips-mc1.7.10-1.2.5.jar
+Translocator-1.7.10-1.1.2.16-universal.jar
+twilightforest-1.7.10-2.3.7.jar
+Waila-1.5.10_1.7.10.jar
+WailaHarvestability-mc1.7.10-1.1.6.jar
+Wawla-1.0.5.120.jar
+[1.7.10] SecurityCraft v1.8.1.jar
