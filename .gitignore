@@ -15,6 +15,7 @@
 #/options.txt
 /servers.dat
 /usernamecache.json
+/usercache.json
 
 # Forge directories
 #/config
