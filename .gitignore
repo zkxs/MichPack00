@@ -7,6 +7,7 @@
 /resourcepacks
 /saves
 /server-resource-packs
+/world
 
 # Vanilla files
 /launcher.jar
@@ -31,3 +32,15 @@
 
 # Mod files
 /BotaniaVars.dat
+
+# Server executables
+/*.jar
+
+# Server files
+/eula.txt
+#/whitelist.json
+#/ops.json
+#/banned-ips.json
+#/banned-players.json
+#/server.properties
+/server-icon.png
