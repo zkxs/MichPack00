@@ -1,9 +1,9 @@
 invertYMouse:false
-mouseSensitivity:0.35211268
+mouseSensitivity:0.45070422
 fov:0.0
 gamma:0.30985916
 saturation:0.0
-renderDistance:12
+renderDistance:10
 guiScale:3
 particles:0
 bobView:true
@@ -85,62 +85,62 @@ key_key.hotbar.6:7
 key_key.hotbar.7:8
 key_key.hotbar.8:9
 key_key.hotbar.9:10
-key_key.charge:47
-key_key.extra:46
-key_key.release:19
-key_key.toggle:34
-key_key.party:33
-key_key.next:45
-key_key.prev:46
-key_OreSpawn UP/FAST:56
+key_key.charge:0
+key_key.extra:0
+key_key.release:0
+key_key.toggle:0
+key_key.party:0
+key_key.next:0
+key_key.prev:0
+key_OreSpawn UP/FAST:0
 key_key.cameraNext:26
-key_key.cameraZoomOut:12
-key_key.cameraZoomIn:13
-key_key.cameraZoomOut:12
-key_key.cameraEmitRedstone:19
-key_key.cameraActivateNightVision:49
-key_Baubles Inventory:48
-key_key.fart.desc:33
+key_key.cameraZoomOut:40
+key_key.cameraZoomIn:39
+key_key.cameraZoomOut:40
+key_key.cameraEmitRedstone:0
+key_key.cameraActivateNightVision:0
+key_Baubles Inventory:0
+key_key.fart.desc:0
 key_waila.keybind.wailaconfig:82
 key_waila.keybind.wailadisplay:79
 key_waila.keybind.liquid:80
 key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
-key_key.tarmor:24
-key_key.tgoggles:34
-key_key.tbelt:48
-key_key.tzoom:44
-key_key.categories.naming:49
+key_key.tarmor:0
+key_key.tgoggles:0
+key_key.tbelt:0
+key_key.tzoom:0
+key_key.categories.naming:0
 key_invtweaks.key.sort:0
-key_key.legends.keyr.desc:19
-key_key.legends.keyf.desc:33
-key_key.legends.keyc.desc:46
-key_key.legends.keyv.desc:47
-key_key.legends.keyg.desc:34
-key_key.legends.keyh.desc:35
-key_key.legends.keyb.desc:48
-key_key.legends.keyn.desc:49
-key_key.legends.keyz.desc:44
-key_key.legends.keyu.desc:22
-key_key.legends.keylmenu.desc:56
-key_key.legends.keyweapons.desc:45
-key_key.legends.keyaltforward.desc:27
-key_Mekanism Item Mode Switch:50
-key_Mekanism Armor Mode Switch:33
-key_Mekanism Voice:22
-key_key.craftingGrid:46
-key_key.ShapeGroups:46
-key_key.SpellBookNext:45
-key_key.SpellBookPrev:44
-key_key.AuraCustomization:48
-key_key.ToggleManaDisplay:24
-key_key.ActivateAffinityAbility:45
-key_key.cofh.empower:47
-key_key.cofh.multimode:46
+key_key.legends.keyr.desc:0
+key_key.legends.keyf.desc:0
+key_key.legends.keyc.desc:0
+key_key.legends.keyv.desc:0
+key_key.legends.keyg.desc:0
+key_key.legends.keyh.desc:0
+key_key.legends.keyb.desc:0
+key_key.legends.keyn.desc:0
+key_key.legends.keyz.desc:0
+key_key.legends.keyu.desc:0
+key_key.legends.keylmenu.desc:0
+key_key.legends.keyweapons.desc:0
+key_key.legends.keyaltforward.desc:0
+key_Mekanism Item Mode Switch:0
+key_Mekanism Armor Mode Switch:0
+key_Mekanism Voice:0
+key_key.craftingGrid:0
+key_key.ShapeGroups:0
+key_key.SpellBookNext:0
+key_key.SpellBookPrev:0
+key_key.AuraCustomization:0
+key_key.ToggleManaDisplay:0
+key_key.ActivateAffinityAbility:0
+key_key.cofh.empower:0
+key_key.cofh.multimode:0
 key_railcraft.keybind.loco.faster:52
 key_railcraft.keybind.loco.slower:51
-key_railcraft.keybind.loco.mode:50
-key_railcraft.keybind.loco.whistle:49
+key_railcraft.keybind.loco.mode:0
+key_railcraft.keybind.loco.whistle:0
 key_key.control:29
 key_key.journeymap.map_toggle:36
 key_key.journeymap.zoom_in:13
