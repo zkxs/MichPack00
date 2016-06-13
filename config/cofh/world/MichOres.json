@@ -1,0 +1,76 @@
+{
+
+"sulfur": {
+        "template": "uniform",
+        "block": "Railcraft:tile.railcraft.ore",
+        "material": "stone",
+        "clusterSize": 4,
+        "numClusters": 4,
+        "minHeight": 0,
+        "maxHeight": 24,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+"CertusQuartz": {
+        "template": "uniform",
+        "block": [
+            {"name": "appliedenergistics2:tile.OreQuartz", "weight":95},
+            {"name": "appliedenergistics2:tile.OreQuartzCharged", "weight":5}
+        ],
+        "clusterSize": 8,
+        "numClusters": 6,
+        "minHeight": 38,
+        "maxHeight": 54,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+"Aluminium": {
+        "template": "uniform",
+        "block": {"name": "TConstruct:SearedBrick", "metadata": 5},
+        "clusterSize": 6,
+        "numClusters": 6,
+        "minHeight": 40,
+        "maxHeight": 70,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+"Apatite": {
+        "template": "uniform",
+        "block": "Forestry:resources",
+        "material": "stone",
+        "clusterSize": 10,
+        "numClusters": 7,
+        "minHeight": 48,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}
