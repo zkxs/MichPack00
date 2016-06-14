@@ -1,6 +1,6 @@
 invertYMouse:false
 mouseSensitivity:0.45070422
-fov:0.0
+fov:-0.275
 gamma:0.30985916
 saturation:0.0
 renderDistance:10
@@ -63,7 +63,7 @@ key_key.jump:57
 key_key.sneak:42
 key_key.drop:16
 key_key.inventory:18
-key_key.chat:20
+key_key.chat:21
 key_key.playerlist:15
 key_key.pickItem:-98
 key_key.command:53
@@ -85,10 +85,10 @@ key_key.hotbar.6:7
 key_key.hotbar.7:8
 key_key.hotbar.8:9
 key_key.hotbar.9:10
-key_key.charge:0
-key_key.extra:0
-key_key.release:0
-key_key.toggle:0
+key_key.charge:47
+key_key.extra:46
+key_key.release:19
+key_key.toggle:34
 key_key.party:0
 key_key.next:0
 key_key.prev:0
@@ -112,7 +112,7 @@ key_key.tbelt:0
 key_key.tzoom:0
 key_key.categories.naming:0
 key_invtweaks.key.sort:0
-key_key.legends.keyr.desc:0
+key_key.legends.keyr.desc:20
 key_key.legends.keyf.desc:0
 key_key.legends.keyc.desc:0
 key_key.legends.keyv.desc:0
@@ -123,7 +123,7 @@ key_key.legends.keyn.desc:0
 key_key.legends.keyz.desc:0
 key_key.legends.keyu.desc:0
 key_key.legends.keylmenu.desc:0
-key_key.legends.keyweapons.desc:0
+key_key.legends.keyweapons.desc:41
 key_key.legends.keyaltforward.desc:0
 key_Mekanism Item Mode Switch:0
 key_Mekanism Armor Mode Switch:0
