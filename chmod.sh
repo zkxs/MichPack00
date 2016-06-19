@@ -14,12 +14,12 @@ for i in "${dirs[@]}" ; do
   echo "OPERATING ON $i"
   echo "********************Ownership********************"
   chown --preserve-root -c -R --from=michael minecraft:minecraft *
+  echo "*******************Directories*******************"
+  sudo -u minecraft find . -type d -exec chmod --preserve-root -f -c 770 {} \;
   echo "**********************Links**********************"
   sudo -u minecraft find . -type l -exec chmod --preserve-root -f -c 660 {} \;
   echo "**********************Files**********************"
   sudo -u minecraft find . -type f -exec chmod --preserve-root -f -c 660 {} \;
-  echo "*******************Directories*******************"
-  sudo -u minecraft find . -type d -exec chmod --preserve-root -f -c 770 {} \;
   echo
 done
 
